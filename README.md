@@ -7,6 +7,6 @@ El order de los archivos a revisar son:
 A. Preparación del DataSet:
  1. RIMAC CHALLENGE Preproc_01.ipynb
  2. RIMAC CHALLENGE Preproc_02.ipynb
- 3. RIMAC CHALLENGE Preproc_03.ipynb 
+ 3. RIMAC CHALLENGE Preproc_03.ipynb
 B. Modelado:
  4. Modelo_RC_01.R
