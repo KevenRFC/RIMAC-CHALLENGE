@@ -5,6 +5,6 @@ Este folder contiene los códigos desarrollados por mi equipo (Cesar Valencia Ma
 
 El order de los archivos a revisar son: 
 
-1.- RIMAC CHALLENGE Preproc_01.ipynb
-2.- RIMAC CHALLENGE Preproc_02.ipynb
-3.- RIMAC CHALLENGE Preproc_03.ipynb
+1.- RIMAC CHALLENGE Preproc_01.ipynb 
+2.- RIMAC CHALLENGE Preproc_02.ipynb 
+3.- RIMAC CHALLENGE Preproc_03.ipynb 
