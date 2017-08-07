@@ -17,4 +17,4 @@ B. Modelado:
 
 ### Integrantes del Equipo: 
 #### - Cesar Valencia Marín
-#### - Keven Fernandez Carrillo
+#### - Keven Fernández Carrillo
