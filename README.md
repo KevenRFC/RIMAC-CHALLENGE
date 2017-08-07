@@ -12,3 +12,4 @@ A. Preparación del DataSet:
  
 B. Modelado:
  4. Modelo_RC_01.R
+
