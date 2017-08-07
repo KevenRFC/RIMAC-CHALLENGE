@@ -1,8 +1,7 @@
 # RIMAC-CHALLENGE
 RIMAC Data Science Challenge fue una competencia que puso a prueba los conocimientos de Machine Learning para desarrollar un modelo predictivo en solo una amanecida. Link: https://www.rimacchallenge.com
 
-Este folder contiene los códigos desarrollados por mi equipo 
-##### (Cesar Valencia Marín y Yo).
+Este folder contiene los códigos desarrollados por mi equipo
 
 El order de los archivos a revisar son:
 
@@ -16,3 +15,6 @@ B. Modelado:
 
 4. Modelo_RC_01.R
 
+Integrantes del Equipo: 
+#### - Cesar Valencia Marín
+#### - Keven Fernandez Carrillo
