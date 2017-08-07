@@ -16,5 +16,5 @@ B. Modelado:
 4. Modelo_RC_01.R
 
 ### Integrantes del Equipo: 
-#### - Cesar Valencia Marín
+#### - César Valencia Marín
 #### - Keven Fernández Carrillo
