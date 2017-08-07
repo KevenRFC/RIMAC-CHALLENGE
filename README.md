@@ -3,10 +3,12 @@ RIMAC Data Science Challenge fue una competencia que puso a prueba los conocimie
 
 Este folder contiene los códigos desarrollados por mi equipo (Cesar Valencia Marín y Yo).
 
-El order de los archivos a revisar son: 
+El order de los archivos a revisar son:
+
 A. Preparación del DataSet:
  1. RIMAC CHALLENGE Preproc_01.ipynb
  2. RIMAC CHALLENGE Preproc_02.ipynb
  3. RIMAC CHALLENGE Preproc_03.ipynb
+ 
 B. Modelado:
  4. Modelo_RC_01.R
